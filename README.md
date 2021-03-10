@@ -1,4 +1,4 @@
-# Rappi MLE challenge solution
+# Rappi MLE Azure PoC
 
 The following repository contains a set of file scripts solving most of the tasks involved in the development and provisioning of the two tasks of the challenge:
 1. Model training pipeline development and provisioning
